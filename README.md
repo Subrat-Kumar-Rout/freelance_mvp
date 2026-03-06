@@ -16,7 +16,7 @@ All data is stored .
 
 It’s built with a focus on simplicity, so the setup and execution are quick.
 
-🛠️ Technologies Used
+🛠️ *Technologies Used*
 
 Frontend: React + Vite
 
