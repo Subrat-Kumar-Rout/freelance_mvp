@@ -4,7 +4,7 @@
 
 📌 *Overview:-*
 
-This project demonstrates a simple freelance marketplace concept:
+*This project demonstrates a simple freelance marketplace concept:*
 
 Users can sign up either as a client or a freelancer.
 
