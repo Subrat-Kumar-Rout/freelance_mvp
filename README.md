@@ -76,7 +76,7 @@ Visit the app at:
 
 *🚀 Future Improvements:-*
 
-Add authentication with JWT
+*Add authentication with JWT*
 
 Connect to a database (MongoDB / PostgreSQL)
 
