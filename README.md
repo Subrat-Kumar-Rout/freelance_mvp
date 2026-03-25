@@ -26,7 +26,7 @@ Backend: Node.js + Express (in-memory storage)
 
 Language: JavaScript (ES6+)
 
-⚙️ *Setup Guide*
+⚙️ *Setup Guide *
 
 Follow these steps to run the project locally:
 
