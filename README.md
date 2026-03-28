@@ -74,7 +74,7 @@ Visit the app at:
 ![Post Gig as Freelancer](./client/screenshots/Post_gig_as_freelancer.png)
 
 
-*🚀 Future Improvements:-*
+*🚀Future Improvements:-*
 
 *Add authentication with JWT*
 
