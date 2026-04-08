@@ -35,7 +35,7 @@ cd freelance-marketplace-mvp
 
 2. Install Dependencies
 
-For both client and server:
+For both client and server :
 
 # Install frontend dependencies
 cd client
