@@ -12,7 +12,7 @@ Freelancers can create gigs (services they offer).
 
 Clients can browse gigs and post jobs.
 
-*All data is stored* .
+*All data is stored*.
 
 It’s built with a focus on simplicity, so the setup and execution are quick.
 
