@@ -8,7 +8,7 @@
 
 Users can sign up either as a client or a freelancer.
 
-Freelancers can create gigs (services they offer).
+Freelancers can create gigs (services they offer). 
 
 Clients can browse gigs and post jobs.
 
