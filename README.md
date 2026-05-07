@@ -7,7 +7,6 @@
 
 *This project demonstrates a simple freelance marketplace concept:*
 
-
 Users can sign up either as a client or a freelancer.
 
 Freelancers can create gigs (services they offer). 
