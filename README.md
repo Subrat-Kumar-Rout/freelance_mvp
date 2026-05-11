@@ -2,7 +2,6 @@
 
 #A lightweight dem of a freelance marketplace platform where clients can post jobs and freelancers can offer gigs.This is a minimal viable product (MVP) version built for learning and experimentation purposes.
 
-
 📌 *Overview:-*
 
 *This project demonstrates a simple freelance marketplace concept:*
