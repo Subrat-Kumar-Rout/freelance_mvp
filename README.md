@@ -60,7 +60,6 @@ npm run dev
 Visit the app at:
 👉 http://localhost:5173
 
-
 📸 Screenshots
 
 ### Signup Page
